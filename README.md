@@ -186,7 +186,27 @@ connectpro-ai/
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
+👨‍💻 Author
+Sohan Patil
 
+GitHub: https://github.com/SohanPatil810
+---
+
+⭐ Support
+If you found this project useful, please consider giving it a ⭐ Star on GitHub.
+
+Your support helps the project grow and motivates future improvements.
+
+---
+
+💙 Acknowledgements
+React
+Vite
+Tailwind CSS
+Framer Motion
+Axios
+OpenWeatherMap API
+Vercel
 <p align="center">
   Built with ❤️ using React, Tailwind CSS, and Groq AI
 </p>
