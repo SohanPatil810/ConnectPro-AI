@@ -205,7 +205,7 @@ Vite
 Tailwind CSS
 Framer Motion
 Axios
-OpenWeatherMap API
+Groq API
 Vercel
 <p align="center">
   Built with ❤️ using React, Tailwind CSS, and Groq AI
