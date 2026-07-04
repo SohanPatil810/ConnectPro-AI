@@ -22,7 +22,13 @@ A premium AI-powered web application that helps students and professionals gener
 - 🌙 **Dark Mode** — Beautiful dark theme with vibrant accents
 
 ---
+🌐 Live Demo
 
+Experience ConnectPro AI live in your browser without any installation.
+
+🔗 Live Demo: https://connect-pro-ai.vercel.app/
+
+---
 ## 📸 Screenshots
 
 > _Run the app locally to see the full premium UI!_
