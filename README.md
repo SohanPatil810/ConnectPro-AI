@@ -26,6 +26,8 @@ A premium AI-powered web application that helps students and professionals gener
 ## 📸 Screenshots
 
 > _Run the app locally to see the full premium UI!_
+> <img width="1279" height="653" alt="image" src="https://github.com/user-attachments/assets/0d705cfd-851b-421a-8b0d-92ba16b352be" />
+
 
 ---
 
